@@ -37,6 +37,7 @@ namespace FirstNet
             {
                 txtLabel.Text = string.Format("ip{0}测试成功！！", txtIp.Text);
                 MessageBox.Show("测试成功");
+                MessageBox.Show("哈哈！！！！");
             }
         }
     }
